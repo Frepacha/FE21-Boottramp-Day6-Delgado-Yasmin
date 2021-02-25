@@ -1,0 +1,21 @@
+.mainContainer{
+    border: 1px solid black;
+}
+
+.boxOne{
+    border: 1px solid black;
+    padding: 2%;
+}
+ p{
+    text-align: center;
+    margin:2vw;
+    
+}
+.boxTwo{
+    border: 1px solid rgb(28, 202, 57);
+    padding: 2%;
+}
+.boxThree{
+    border: 1px solid rgb(173, 4, 4);
+    padding: 2%;
+}
