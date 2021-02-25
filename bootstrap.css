@@ -1,0 +1,14 @@
+.jumbotron{
+    background-image: url(img/ea3938a42d79104bd9c9d15b1b5ab05c.jpg);
+    object-fit: fill;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+   }
+
+   .ponny{
+       border: 1px solid rgb(0, 255, 64);
+      
+   }
+   
